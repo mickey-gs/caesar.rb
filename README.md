@@ -3,5 +3,7 @@ A simple implementation of the Caesar cipher algorithm, with a .exe version avai
 
 ## TODO:
 -Add UI
+
 -Add ability to save to file
+
 -Generate .exe with OCRA
